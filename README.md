@@ -65,7 +65,7 @@ I thrive on developing **enterprise solutions**, **research projects**, and inte
 
 ## 📫 Connect With Me
 - 📧 **Email:** selimsezr@gmail.com  
-- 💼 **LinkedIn:** [selimsezr](www.linkedin.com/in/selimsezr)  
+- 💼 **LinkedIn:** [selimsezr](https://www.linkedin.com/in/selimsezr)  
 
 
 <picture>
