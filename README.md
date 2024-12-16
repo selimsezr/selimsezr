@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;3D+Map+Visualization;Node.js+%26+Spring+Boot+Microservices;Expert+in+Agile+and+CI%2FCD+Practices;PostgreSQL%2C+PrismaJS+%26+User" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;3D+Map+Visualization;Node.js+%26+Spring+Boot+Microservices;Expert+in+Agile+and+CI%2FCD+Practices;PostgreSQL%2C+PrismaJS" alt="Typing SVG">
 </div>
 
 ---
